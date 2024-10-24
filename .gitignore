@@ -3,4 +3,4 @@ __pycache__
 Lms_pb2.py
 Lms_pb2.pyi
 Lms_pb2_grpc.py
-.venv
+venv
